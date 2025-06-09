@@ -28,8 +28,7 @@ ner_pipeline = load_model(model_choice)
 # Exemple
 if st.button("Insert an example"):
     st.session_state["text"] = (
-        "La famille Rosaceae contient Rosa canina. Rosa canina est une plante. "
-        "Lb est une classe. La famille Rosaceae est connue."
+        "The Carcharhinus macloti is a species of requiem shark, in the family Carcharhinidae. Distinguishing characteristics include dusky-colored fins without prominent markings, a short free rear tip on the second dorsal fin, and tooth shape and number. A heavy-bodied shark with a "typical" streamlined shape, the Caribbean reef shark is difficult to distinguish from other large requiem shark species. It usually measures 2–2.5 m  long; the maximum recorded length is 3 m and the maximum reported weight is 70 kg . The coloration is dark gray or gray-brown above and white or white-yellow below, with an inconspicuous white band on the flanks"
     )
 
 text = st.text_area("📝 Enter a text to analyze:", height=200, key="text")
