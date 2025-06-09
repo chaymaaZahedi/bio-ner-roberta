@@ -16,7 +16,6 @@ This project focuses on developing a domain-specific NER system tailored to fish
 - [🌐 User Interface](#-user-interface)
 - [📈 Results](#-results)
 - [🚀 Getting Started](#-getting-started)
-- [📝 License](#-license)
 
 ---
 
