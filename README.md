@@ -76,7 +76,7 @@ Annotation was performed using the **DeepSeek Coder R1 API**.
   - Device: CUDA-enabled GPU
 
 - The final fine-tuned model is available publicly on the Hugging Face Hub:  
-  🔗 [`chaymaaZahedi/bio-ner-roberta`](https://chaymaaZahedi/bio-ner-roberta/tree/main)
+  🔗 [`chaymaaZahedi/bio-ner-roberta`](https://huggingface.co/chaymaaZahedi/bio-ner-roberta/tree/main)
 
 - Final performance:
   - **Global F1 Score**: `0.899`
