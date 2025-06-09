@@ -120,4 +120,5 @@ cd ner-bio-fish-roberta
 
 # Launch the interface
 cd interface
+pip install -r requirements.txt
 streamlit run app.py
