@@ -120,13 +120,6 @@ This tool facilitates the validation and application of our model in ecological 
 ```bash
 git clone https://github.com/your-username/ner-bio-fish-roberta.git
 cd ner-bio-fish-roberta
-pip install -r requirements.txt
-
-# Train the model
-python src/train.py
-
-# Evaluate the model
-python src/evaluate.py
 
 # Launch the interface
 cd interface
