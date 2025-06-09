@@ -4,7 +4,7 @@ from huggingface_hub import login
 import hashlib
 
 # Connexion Hugging Face (facultatif si le modèle est public)
-login(token="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")
+login(token="YOUR_TOKEN_HERE")
 
 # Fonction : générer une couleur hex unique pour une entité
 def generate_color(label_base):
