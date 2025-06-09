@@ -112,7 +112,7 @@ This tool facilitates the validation and application of our model in ecological 
 
 - Detailed evaluation metrics across all 11 entity types
 - Learning curves and confusion matrices included in `results/`
-
+![Interface NER Bio](results/interface.png)
 ---
 
 ## 🚀 Getting Started
