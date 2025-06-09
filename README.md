@@ -91,8 +91,6 @@ We conducted ablation tests with two configurations:
 
 The focal loss model showed clear improvement on underrepresented entity types.
 
-> 📁 See [`test_ablation/`](test_ablation/) for detailed results and comparisons.
-
 ---
 
 ## 🌐 User Interface
